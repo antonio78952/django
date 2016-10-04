@@ -1,0 +1,7 @@
+pip install django djangorestframework
+
+django-admin.py startproject files_manager
+
+esto nos creara una carpeta files_manager en cuyo interrior tendra una carpeta files_manager con archivos py que actuan con archivos de configurac
+del proyecto.
+ bueno mejor subo el pdf jojojoj
